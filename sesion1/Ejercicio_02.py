@@ -1,0 +1,18 @@
+'''
+*********** Curso de programación acelerada en Python ************
+Date 04-08-2022
+File: sesion/ejercicio1.py
+Autor: Ing. Manuel Vergel Escamilla
+Action: asignación de variables
+'''
+nombre_estado = 'Tabasco'
+superficie = 25267
+poblacion_total = 2403000000
+promedio_temperatura = 31.3
+estados_cercanos = ['chiapas','campeche','veracruz']
+print(nombre_estado, " es un estado que ", )
+print("con ",estados_cercanos[0], "colinda al sur", "y")
+print("Tiene una superficie de ", superficie)
+print("Ademas tiene una población total de ", poblacion_total)
+print("Su temperatura promedio es ", promedio_temperatura)
+print('los estados cercanos son:', estados_cercanos)
