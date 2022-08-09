@@ -1,7 +1,7 @@
 '''
 *********** Curso de programación acelerada en Python ************
-Date xx-xx-xxxx
-File: sesion/ejercicio3.py
+Date 08-08-2022
+File: sesion/ejercicio5_5.py
 Autor: Ing. Manuel Vergel Escamilla
 Action: pago de trabajador
 '''

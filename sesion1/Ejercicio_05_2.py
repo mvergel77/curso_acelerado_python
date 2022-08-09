@@ -1,6 +1,6 @@
 '''
 *********** Curso de programación acelerada en Python ************
-Date xx-xx-xxxx
+Date 08-08-2022
 File: sesion/ejercicio4.py
 Autor: Ing. Manuel Vergel Escamilla
 Action: indice de masa corporal peso en kg/ estatura mtrs cuadrados

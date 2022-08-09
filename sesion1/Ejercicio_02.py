@@ -1,6 +1,6 @@
 '''
 *********** Curso de programación acelerada en Python ************
-Date 04-08-2022
+Date 08-08-2022
 File: sesion/ejercicio1.py
 Autor: Ing. Manuel Vergel Escamilla
 Action: asignación de variables

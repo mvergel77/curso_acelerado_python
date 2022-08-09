@@ -1,6 +1,7 @@
 # Date 04-08-2022
 """
-File: main.py
+Date 08-08-2022
+File: sesion1/Ejercicio_01.py
 Autor: Ing. Manuel Vergel Escamilla
 """
 '''

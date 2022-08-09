@@ -1,6 +1,6 @@
 '''
 *********** Curso de programación acelerada en Python ************
-Date 04-08-2022
+Date 08-08-2022
 File: sesion/ejercicio2.py
 Autor: Ing. Manuel Vergel Escamilla
 Action: superficie de un cuadrado

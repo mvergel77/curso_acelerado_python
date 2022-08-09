@@ -1,6 +1,6 @@
 '''
 *********** Curso de programación acelerada en Python ************
-Date xx-xx-xxxx
+Date 08-08-2022
 File: sesion/ejercicio6.py
 Autor: Ing. Manuel Vergel Escamilla
 Action: imprime capital obtenido de una inversión
